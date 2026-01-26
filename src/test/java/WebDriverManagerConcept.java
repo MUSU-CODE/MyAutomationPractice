@@ -35,7 +35,7 @@ public class WebDriverManagerConcept {
 		// for findElement() we can directly perform the action as it give single element but for findElements() we have to use loop to perform the action as it give multiple elements
 		
 		//this xpath locator is not present in the given website
-		List<WebElement> elem = driver.findElements(By.xpath("//button[@class='footer-upper']"));// so findElements() method 
+		List<WebElement> elem = driver.findElements(By.xpath("//button[@class='footer-upper']"));// so findElements() method will not throw any exception but put output as 0
 		System.out.println("Number of Elements Captured:"+ elem.size()); // output is o
 		
 	}
