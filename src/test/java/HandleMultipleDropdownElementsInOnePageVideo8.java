@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class HandleMultipleDropdownElementsInOnePage {
+public class HandleMultipleDropdownElementsInOnePageVideo8 {
    
 	static WebDriver driver;//we made WebDriver driver as global variable so we can access it anywhere and in java global variable means static as main() method is static
 	

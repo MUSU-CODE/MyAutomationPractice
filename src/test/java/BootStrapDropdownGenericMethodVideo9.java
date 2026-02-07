@@ -7,12 +7,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class BootStrapDropdownGenericMethod {
+public class BootStrapDropdownGenericMethodVideo9 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//BootStrapDropdown is where we don't use <select> </select> select tag instead we use anker tag <a> </a> and button tag<button> </button>
+		//BootStrapDropdownVideo9 is where we don't use <select> </select> select tag instead we use anker tag <a> </a> and button tag<button> </button>
 		
 		WebDriverManager.chromedriver().setup(); 
 		WebDriver driver=new ChromeDriver();

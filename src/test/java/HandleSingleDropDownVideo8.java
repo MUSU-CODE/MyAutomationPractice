@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class HandleSingleDropDown {
+public class HandleSingleDropDownVideo8 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
